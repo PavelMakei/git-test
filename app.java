@@ -1,1 +1,4 @@
-ackage by.makei.git_test
+package by.makei.git_test
+
+public class App{
+}
